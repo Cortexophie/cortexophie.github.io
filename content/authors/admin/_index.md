@@ -60,22 +60,22 @@ skills:
         description: ''
         percent: 60
         icon: psychopyIcon
-        # icon_pack: 
+        icon_pack: custom
       - name: Matlab
         description: ''
         percent: 50
         icon: matlab
-        # icon_pack: devicon
+        icon_pack: custom
       - name: RStudio
         description: ''
         percent: 70
         icon: RStudio
-        # icon_pack: devicon
+        icon_pack: custom
       - name: Eyelink
         description: ''
         percent: 80
-        icon: eyelink
-        # icon_pack: devicon
+        icon: eyelink.svg
+        icon_pack: custom
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -85,15 +85,15 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Diving
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        icon: scuba
+        icon_pack: custom
+      - name: Biking
         description: ''
         percent: 80
-        icon: camera-retro
+        icon:  person-biking
         icon_pack: fas
 
 # Social/Academic Networking
