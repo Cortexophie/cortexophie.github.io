@@ -82,19 +82,29 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 50
         icon: person-hiking
         icon_pack: fas
       - name: Diving
         description: ''
-        percent: 100
+        percent: 60
         icon: scuba
         icon_pack: custom
       - name: Biking
         description: ''
-        percent: 80
+        percent: 60
         icon:  person-biking
         icon_pack: fas
+      - name: gaming
+        description: ''
+        percent: 50
+        icon:  dice-d20
+        icon_pack: custom
+      - name: professional cat petter
+        description: ''
+        percent: 100
+        icon:  person-biking
+        icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
