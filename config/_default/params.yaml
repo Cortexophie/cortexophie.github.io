@@ -10,7 +10,7 @@ appearance:
   theme_night: minimal
   font: minimal
   font_size: L
-  
+
 
 # SEO
 
@@ -49,6 +49,7 @@ header:
        filename: "logo.svg"
 
    show_theme_chooser: true
+
 
 # Site footer
 
