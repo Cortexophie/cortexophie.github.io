@@ -99,13 +99,13 @@ skills:
       - name: gaming
         description: ''
         percent: 50
-        icon:  d20
-        icon_pack: custom
-      - name: professional cat petter
+        icon:  dice-d20
+        icon_pack: fas
+      - name: professional cat petting
         description: ''
         percent: 100
-        icon:  cat-solid
-        icon_pack: custom
+        icon:  cat
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
