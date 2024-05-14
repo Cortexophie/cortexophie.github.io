@@ -98,12 +98,12 @@ skills:
       - name: gaming
         description: ''
         percent: 50
-        icon:  dice-d20
+        icon:  d20
         icon_pack: custom
       - name: professional cat petter
         description: ''
         percent: 100
-        icon:  person-biking
+        icon:  cat-solid
         icon_pack: custom
 
 # Social/Academic Networking
