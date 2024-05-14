@@ -41,15 +41,12 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-
     logo:
-       # Logo text
-       text: ""
-       # Logo filename in `assets/media/` folder
-       filename: "logo.svg"
-
-   show_theme_chooser: true
-
+      # Logo text
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.svg"
+    show_theme_chooser: true
 
 # Site footer
 
