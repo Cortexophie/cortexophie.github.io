@@ -60,22 +60,22 @@ skills:
         description: ''
         percent: 60
         icon: psychopyIcon
-        icon_pack: custom
+        icon_pack: icons/custom/
       - name: Matlab
         description: ''
         percent: 50
         icon: matlab
-        icon_pack: custom
+        icon_pack: icons/custom/
       - name: RStudio
         description: ''
         percent: 70
         icon: RStudio
-        icon_pack: custom
+        icon_pack: icons/custom/
       - name: Eyelink
         description: ''
         percent: 80
         icon: eyelink.svg
-        icon_pack: custom
+        icon_pack: icons/custom/
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -89,7 +89,7 @@ skills:
         description: ''
         percent: 100
         icon: scuba
-        icon_pack: custom
+        icon_pack: icons/custom/
       - name: Biking
         description: ''
         percent: 80
