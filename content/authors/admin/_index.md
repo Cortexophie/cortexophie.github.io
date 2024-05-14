@@ -32,6 +32,7 @@ interests:
   - Visual attention
   - Visual perception
   - Deep Learning
+  - Eyetracking
 
 # Education to show in About widget
 education:
@@ -115,14 +116,17 @@ social:
     icon_pack: fas
     link: '/#contact'
   - icon: blsky
-    icon_pack: fab
-    link: https://bsky.app/
+    icon_pack: custom
+    link: https://bsky.app/profile/cortexophie.bsky.social
     label: Follow me on Bluesky
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=DUsN7x0AAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-9120-7407 
   - icon: github
     icon_pack: fab
     link: https://github.com/Cortexophie
@@ -140,5 +144,5 @@ social:
 highlight_name: true
 ---
 
-Hi, I am Sofia, and I am a cognitive neuroscientist. I received my PhD in October 2023. My research interests include (but are not limited to) visual attention, perception, eyetracking and deep learning.
+Hi, I am Sofia, and I am a cognitive neuroscientist. I received my PhD in October 2023. My research interests include (but are not limited to) attentional control settings, visual information processing, the relationship between oculomotor behaviour and cognitive factors, and their neurophysiological underpinnings.
 {style="text-align: justify;"}
