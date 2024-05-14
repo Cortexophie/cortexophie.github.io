@@ -74,7 +74,7 @@ skills:
       - name: Eyelink
         description: ''
         percent: 80
-        icon: eyelink.svg
+        icon: eyelink
         icon_pack: custom
   - name: Hobbies
     color: '#eeac02'
