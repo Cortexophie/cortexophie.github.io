@@ -177,7 +177,7 @@ sections:
       contact_links:
         - icon: envelope
           icon_pack: fas
-          name: email
+          name: email me
           link: 'mailto:krasov.sofia@gmail.com'
         - icon: blsky
           icon_pack: brands
