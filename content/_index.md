@@ -179,7 +179,7 @@ sections:
           icon_pack: fas
           name: email
           link: 'mailto:krasov.sofia@gmail.com'
-        - icon: bluetooth
+        - icon: bluesky
           icon_pack: fab
           name: Follow me
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
