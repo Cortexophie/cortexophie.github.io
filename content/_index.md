@@ -170,7 +170,6 @@ sections:
       text: |-
         if you wish to contact me, you use the form below and I will get back to you.
       # Contact (add or remove contact options as necessary)
-      email: krasov.sofia@gmail.com
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '64.1282'
@@ -178,6 +177,7 @@ sections:
       contact_links:
         - icon: envelope
           icon_pack: fas
+          name: email
           link: 'mailto:krasov.sofia@gmail.com'
         - icon: bluesky
           icon_pack: fab
@@ -190,13 +190,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      # form:
+      #   provider: netlify
+      #   formspree:
+      #     id:
+      #   netlify:
+      #     # Enable CAPTCHA challenge to reduce spam?
+      #     captcha: false
     design:
       columns: '2'
 ---
