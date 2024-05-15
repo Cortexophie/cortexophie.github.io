@@ -62,27 +62,32 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
+        - title: Adjunct Lecturer
+          company: University of Akureyri
+          company_url: 'https://www.unak.is/english/'
+          company_logo: unak
+          location: Iceland
+          date_start: '2024-01-08'
+          date_end: '2024-30-12'
+          description: Teaching Sensation and Perception
+      
+        - title: Adjunct Lecturer
+          company: University of Akureyri
+          company_url: 'https://www.unak.is/english/'
+          company_logo: unak
+          location: Iceland
+          date_start: '2024-01-01'
+          date_end: '2024-01-06'
+          description: Taught Cognitive Psychology
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Researcher
+          company: Icelandic Vision Lab
+          company_url: 'https://visionlab.is/'
+          company_logo: ivl
+          location: Iceland
+          date_start: '2021-01-09'
+          date_end: '2023-08-10'
+          description: Researched attentional control settings
     design:
       columns: '2'
   - block: accomplishments
