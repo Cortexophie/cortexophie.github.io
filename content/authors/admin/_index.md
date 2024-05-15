@@ -115,10 +115,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: blsky
-    icon_pack: custom
-    link: https://bsky.app/profile/cortexophie.bsky.social
-    label: Follow me on Bluesky
     display:
       header: true
   - icon: google-scholar

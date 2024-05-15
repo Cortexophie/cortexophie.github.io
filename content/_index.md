@@ -178,11 +178,11 @@ sections:
       contact_links:
         - icon: blsky
           icon_pack: custom
-          link: https://bsky.app/profile/cortexophie.bsky.social
+          link: 'https://bsky.app/profile/cortexophie.bsky.social'
           name: Follow me on Bluesky
        - icon: facebook
           icon_pack: brands
-          link: https://www.facebook.com/sofia.krasovskaya.1/
+          link: 'https://www.facebook.com/sofia.krasovskaya.1/'
           name: Shoot me a DM on Facebook 
       # Automatically link email and phone or display as text?
       autolink: true
