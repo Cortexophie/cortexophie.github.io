@@ -67,7 +67,7 @@ sections:
           company_url: 'https://www.unak.is/english/'
           company_logo: unak
           location: Iceland
-          date_start: '2024-01-08'
+          date_start: '2024-08-01'
           date_end: '2024-12-30'
           description: Teaching Sensation and Perception
       
@@ -76,8 +76,8 @@ sections:
           company_url: 'https://www.unak.is/english/'
           company_logo: unak
           location: Iceland
-          date_start: '2024-01-01'
-          date_end: '2024-06-01'
+          date_start: '2024-01-08'
+          date_end: '2024-05-31'
           description: Taught Cognitive Psychology
 
         - title: Researcher
