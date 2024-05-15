@@ -177,11 +177,11 @@ sections:
       contact_links:
         - icon: bluesky
           icon_pack: fab
-          name: Follow me on Bluesky
+          name: Follow me
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
         - icon: facebook
           icon_pack: fab
-          name: Shoot me a DM on Facebook
+          name: Shoot me a DM
           link: 'https://www.facebook.com/sofia.krasovskaya.1/'
       # Automatically link email and phone or display as text?
       autolink: true
@@ -189,7 +189,7 @@ sections:
       form:
         provider: netlify
         formspree:
-          id: 'krasov.sofia@gmail.com'
+          id: 'mailto:krasov.sofia@gmail.com'
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
