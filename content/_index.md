@@ -68,7 +68,7 @@ sections:
           company_logo: unak
           location: Iceland
           date_start: '2024-01-08'
-          date_end: '2024-30-12'
+          date_end: '2024-12-30'
           description: Teaching Sensation and Perception
       
         - title: Adjunct Lecturer
@@ -77,7 +77,7 @@ sections:
           company_logo: unak
           location: Iceland
           date_start: '2024-01-01'
-          date_end: '2024-01-06'
+          date_end: '2024-06-01'
           description: Taught Cognitive Psychology
 
         - title: Researcher
@@ -85,8 +85,8 @@ sections:
           company_url: 'https://visionlab.is/'
           company_logo: ivl
           location: Iceland
-          date_start: '2021-01-09'
-          date_end: '2023-08-10'
+          date_start: '2021-09-01'
+          date_end: '2023-10-08'
           description: Researched attentional control settings
     design:
       columns: '2'
