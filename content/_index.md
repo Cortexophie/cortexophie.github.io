@@ -168,19 +168,19 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        if you wish to contact me, you use the form below and I will get back to you.
+        Feel free to reach out to me.
       # Contact (add or remove contact options as necessary)
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '64.1282'
-        longitude: '-21.8277'  
+      # # Choose a map provider in `params.yaml` to show a map from these coordinates
+      # coordinates:
+      #   latitude: '64.1282'
+      #   longitude: '-21.8277'  
       contact_links:
         - icon: envelope
           icon_pack: fas
           name: email
           link: 'mailto:krasov.sofia@gmail.com'
-        - icon: bluesky
-          icon_pack: fab
+        - icon: blsky
+          icon_pack: custom
           name: Follow me
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
         - icon: facebook
