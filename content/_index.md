@@ -180,7 +180,7 @@ sections:
           icon_pack: brands
           name: Follow me on Bluesky
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
-       - icon: facebook
+        - icon: facebook
           icon_pack: brands
           name: Shoot me a DM on Facebook
           link: 'https://www.facebook.com/sofia.krasovskaya.1/'
