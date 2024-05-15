@@ -177,7 +177,7 @@ sections:
         longitude: '-21.8277'  
       contact_links:
         - icon: blsky
-          icon_pack: custom
+          icon_pack: brands
           name: Follow me on Bluesky
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
        - icon: facebook
