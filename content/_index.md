@@ -173,17 +173,17 @@ sections:
       phone: 888 888 88 88
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '64.128288'
-        longitude: '-21.827774'  
+        latitude: '64.1282'
+        longitude: '-21.8277'  
       contact_links:
         - icon: blsky
           icon_pack: custom
-          link: 'https://bsky.app/profile/cortexophie.bsky.social'
           name: Follow me on Bluesky
+          link: 'https://bsky.app/profile/cortexophie.bsky.social'
        - icon: facebook
           icon_pack: brands
+          name: Shoot me a DM on Facebook
           link: 'https://www.facebook.com/sofia.krasovskaya.1/'
-          name: Shoot me a DM on Facebook 
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
