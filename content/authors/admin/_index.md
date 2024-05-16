@@ -10,7 +10,7 @@ first_name: Sofia
 last_name: Krasovskaya
 
 # Status emoji
-status:
+status: hi
   icon: 👁
 
 # Is this the primary user of the site?
@@ -25,7 +25,7 @@ organizations:
     url: https://www.unak.is/english/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include attentional control settings, visual information processing, the relationship between oculomotor behaviour and cognitive factors, and their neurophysiological underpinnings.
+bio: Cognitive scientist interested in all things vision and attention.
 
 # Interests to show in About widget
 interests:
