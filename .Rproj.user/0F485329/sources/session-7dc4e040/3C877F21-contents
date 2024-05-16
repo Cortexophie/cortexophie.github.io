@@ -7,6 +7,7 @@ event_url: https://etra.acm.org/2024/
 location: Glasgow, UK
 
 summary: A presentation of our recent publication where we used a gaze-contingent eyetracking setup to look at the dynamics of the functional field of view. 
+abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
