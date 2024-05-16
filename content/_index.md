@@ -137,9 +137,9 @@ sections:
     content:
       title: Recent Publications
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+        # {{% callout note %}}
+        # Quickly discover relevant content by [filtering publications](./publication/).
+        # {{% /callout %}}
       filters:
         folders:
           - publication
@@ -159,7 +159,7 @@ sections:
       view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Topics
     design:
       columns: '2'
   - block: contact
@@ -168,7 +168,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to reach out to me.
+        Feel free to reach out to me using any of the options below.
       # Contact (add or remove contact options as necessary)
       # # Choose a map provider in `params.yaml` to show a map from these coordinates
       # coordinates:
@@ -179,8 +179,8 @@ sections:
           icon_pack: fas
           name: email me
           link: 'mailto:krasov.sofia@gmail.com'
-        - icon: bls
-          icon_pack: custom
+        - icon: bluesky
+          icon_pack: fab
           name: Follow me
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
         - icon: facebook
