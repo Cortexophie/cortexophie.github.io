@@ -10,7 +10,7 @@ first_name: Sofia
 last_name: Krasovskaya
 
 # Status emoji
-status: hi
+status: 
   icon: 👁
 
 # Is this the primary user of the site?
