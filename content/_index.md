@@ -179,8 +179,8 @@ sections:
           icon_pack: fas
           name: email me
           link: 'mailto:krasov.sofia@gmail.com'
-        - icon: blsky
-          icon_pack: brands
+        - icon: bls
+          icon_pack: custom
           name: Follow me
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
         - icon: facebook
