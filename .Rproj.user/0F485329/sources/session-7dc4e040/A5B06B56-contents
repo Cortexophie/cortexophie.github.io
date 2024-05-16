@@ -19,11 +19,11 @@ sections:
   - block: skills
     content:
       title: My interests
-      text: ''
+      text: 'Here are some of my major skills and interests'
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '1'
+      columns: '2'
   - block: experience
     content:
       title: Experience

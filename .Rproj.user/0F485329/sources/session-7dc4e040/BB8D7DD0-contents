@@ -81,6 +81,11 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      - name: powerlifting            
+        description: ''
+        percent: 100
+        icon: dumbbell
+        icon_pack: fas
       - name: Hiking
         description: ''
         percent: 50
