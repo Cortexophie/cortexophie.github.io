@@ -179,14 +179,14 @@ sections:
           icon_pack: fas
           name: email me
           link: 'mailto:krasov.sofia@gmail.com'
-        - icon: bluesky_media_kit_logo
-          icon_pack: brands
-          name: Follow me
-          link: 'https://bsky.app/profile/cortexophie.bsky.social'
         - icon: facebook
           icon_pack: fab
           name: Shoot me a DM
           link: 'https://www.facebook.com/sofia.krasovskaya.1/'
+        - icon: bluesky_media_kit_logo
+          icon_pack: brands
+          name: Follow me
+          link: 'https://bsky.app/profile/cortexophie.bsky.social'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
