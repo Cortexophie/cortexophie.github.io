@@ -184,7 +184,7 @@ sections:
           name: Shoot me a DM
           link: 'https://www.facebook.com/sofia.krasovskaya.1/'
         - icon: ivl
-          icon_pack: brands
+          # icon_pack: brands
           name: Follow me
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
       # Automatically link email and phone or display as text?
