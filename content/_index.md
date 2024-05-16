@@ -13,7 +13,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -110,10 +110,6 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      # text: |-
-        # {{% callout note %}}
-        # Quickly discover relevant content by [filtering publications](./publication/).
-        # {{% /callout %}}
       filters:
         folders:
           - publication
@@ -121,13 +117,14 @@ sections:
     design:
       columns: '2'
       view: citation
+      
   - block: collection
     id: talks
     content:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - event/ETRA
     design:
       columns: '2'
       view: compact
@@ -159,22 +156,11 @@ sections:
           link: 'https://www.facebook.com/sofia.krasovskaya.1/'
         - icon: bluesky
           icon_pack: fab
-          name: Follow me
+          name: Follow me on bsky
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
-        - icon: twitter
-          icon_pack: fab
-          name: Follow me
-          link: 'https://bsky.app/profile/cortexophie.bsky.social'
+
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      # form:
-      #   provider: netlify
-      #   formspree:
-      #     id:
-      #   netlify:
-      #     # Enable CAPTCHA challenge to reduce spam?
-      #     captcha: false
     design:
       columns: '2'
 ---
