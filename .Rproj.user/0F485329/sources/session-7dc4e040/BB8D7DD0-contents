@@ -10,7 +10,7 @@ first_name: Sofia
 last_name: Krasovskaya
 
 # Status emoji
-status:
+status: 
   icon: 👁
 
 # Is this the primary user of the site?
@@ -25,13 +25,14 @@ organizations:
     url: https://www.unak.is/english/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include attentional control settings, visual information processing, the relationship between oculomotor behaviour and cognitive factors, and their neurophysiological underpinnings.
+bio: Cognitive scientist interested in all things vision and attention.
 
 # Interests to show in About widget
 interests:
   - Visual attention
   - Visual perception
   - Deep Learning
+  - Eyetracking
 
 # Education to show in About widget
 education:
@@ -60,40 +61,50 @@ skills:
         description: ''
         percent: 60
         icon: psychopyIcon
-        # icon_pack: 
+        icon_pack: custom
       - name: Matlab
         description: ''
         percent: 50
         icon: matlab
-        # icon_pack: devicon
+        icon_pack: custom
       - name: RStudio
         description: ''
         percent: 70
         icon: RStudio
-        # icon_pack: devicon
+        icon_pack: custom
       - name: Eyelink
         description: ''
         percent: 80
         icon: eyelink
-        # icon_pack: devicon
+        icon_pack: custom
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 50
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Diving
+        description: ''
+        percent: 60
+        icon: scuba
+        icon_pack: custom
+      - name: Biking
+        description: ''
+        percent: 60
+        icon:  person-biking
+        icon_pack: fas
+      - name: gaming
+        description: ''
+        percent: 50
+        icon:  dice-d20
+        icon_pack: fas
+      - name: professional cat petting
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
+        icon:  cat
         icon_pack: fas
 
 # Social/Academic Networking
@@ -104,15 +115,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: blsky
-    icon_pack: fab
-    link: https://bsky.app/
-    label: Follow me on Bluesky
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=DUsN7x0AAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-9120-7407 
   - icon: github
     icon_pack: fab
     link: https://github.com/Cortexophie
@@ -130,5 +140,5 @@ social:
 highlight_name: true
 ---
 
-Hi, I am Sofia, and I am a cognitive neuroscientist. I received my PhD in October 2023. My research interests include (but are not limited to) visual attention, perception, eyetracking and deep learning.
+Hi, I am Sofia, and I am a cognitive neuroscientist. I received my PhD in October 2023. My research interests include (but are not limited to) attentional control settings, visual information processing, the relationship between oculomotor behaviour and cognitive factors, and their neurophysiological underpinnings.
 {style="text-align: justify;"}

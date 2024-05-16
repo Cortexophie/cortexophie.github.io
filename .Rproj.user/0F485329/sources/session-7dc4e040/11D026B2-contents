@@ -11,6 +11,7 @@ appearance:
   font: minimal
   font_size: L
 
+
 # SEO
 
 marketing:
@@ -40,12 +41,18 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+    logo:
+      # Logo text
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.png"
+    show_theme_chooser: true
 
 # Site footer
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Sofia Krasovskaya. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
