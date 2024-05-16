@@ -183,7 +183,7 @@ sections:
           icon_pack: fab
           name: Shoot me a DM
           link: 'https://www.facebook.com/sofia.krasovskaya.1/'
-        - icon: bls
+        - icon: ivl
           icon_pack: brands
           name: Follow me
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
