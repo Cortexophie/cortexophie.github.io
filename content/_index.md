@@ -179,8 +179,8 @@ sections:
           icon_pack: fas
           name: email me
           link: 'mailto:krasov.sofia@gmail.com'
-        - icon: facebook
-          icon_pack: fab
+        - icon: ivl
+          icon_pack: brands
           name: Shoot me a DM
           link: 'https://www.facebook.com/sofia.krasovskaya.1/'
         - icon: ivl
