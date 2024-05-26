@@ -50,7 +50,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Tech
     items:
       - name: Python
         description: ''
@@ -76,6 +76,11 @@ skills:
         description: ''
         percent: 80
         icon: eyelink
+        icon_pack: custom
+      - name: OpenSesame
+        description: ''
+        percent: 60
+        icon: osexp
         icon_pack: custom
   - name: Hobbies
     color: '#eeac02'

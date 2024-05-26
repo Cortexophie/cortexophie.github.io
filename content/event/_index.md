@@ -8,8 +8,12 @@ cms_exclude: true
 #   3 = Card
 view: 2
 
-# Optional header image (relative to `static/media/` folder).
+# # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
-  image: ''
+  caption: 'An example talk'
+  image: 'ffv_events_etra'
+# 
+# image:
+#   caption: "An example image"
+#   filename: "ffv_events_etra"
 ---
