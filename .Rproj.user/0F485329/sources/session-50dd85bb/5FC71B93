@@ -1,26 +1,26 @@
 {
-    "id": "971BA61F",
-    "path": "C:/Users/sofia/cortexophie.github.io/content/event/etra/etra.md",
-    "project_path": "content/event/etra/etra.md",
+    "id": "5FC71B93",
+    "path": "C:/Users/sofia/cortexophie.github.io/content/authors/_index.md",
+    "project_path": "content/authors/_index.md",
     "type": "markdown",
     "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1716659203678.0,
+    "created": 1716684510232.0,
     "source_on_save": false,
-    "relative_order": 3,
+    "relative_order": 8,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "50,0",
-        "scrollLine": "15"
+        "cursorPosition": "4,7",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1716681466,
+    "lastKnownWriteTime": 1713298755,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1716681466588,
+    "last_content_update": 1713298755,
     "read_only": false,
     "read_only_alternatives": []
 }
