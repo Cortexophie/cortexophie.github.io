@@ -43,7 +43,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-	- title: Postdoctoral Fellow
+		- title: Postdoctoral Fellow
           company: Te Smith-Kettlewell Eye Research Institute
           company_url: 'ski.org/'
           company_logo: skeri
