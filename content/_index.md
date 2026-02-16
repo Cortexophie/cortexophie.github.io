@@ -43,6 +43,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+	- title: Postdoctoral Fellow
+	  company: The Smith-Kettlewell Eye Research Institute
+          company_url: 'ski.org/'
+          company_logo: skeri
+          location: San Francisco, USA
+          date_start: '2025-01-02'
+          date_end: 'current'
+          description: Studying perception in blindness
+
         - title: Adjunct Lecturer
           company: University of Akureyri
           company_url: 'https://www.unak.is/english/'
@@ -59,7 +68,7 @@ sections:
           location: Iceland
           date_start: '2024-01-08'
           date_end: '2024-05-31'
-          description: Taught Cognitive Psychology
+          description: Teaching Cognitive Psychology
 
         - title: Researcher
           company: Icelandic Vision Lab
@@ -68,7 +77,7 @@ sections:
           location: Iceland
           date_start: '2021-09-01'
           date_end: '2023-10-08'
-          description: Researched attentional control settings
+          description: Researching attentional control settings
     design:
       columns: '2'
       
