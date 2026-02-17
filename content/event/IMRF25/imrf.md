@@ -64,6 +64,6 @@ slides: ""
 # Projects (optional).
 projects: [echolocation]
 ---
-![IMRF poster](imrf25.png)
+
 
 
