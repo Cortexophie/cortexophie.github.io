@@ -50,8 +50,8 @@ sections:
           location: San Francisco, USA
           date_start: '2025-01-02'
           date_end: 'current'
-          description: Studying perception in blindness
-		  
+          description: Teaching Sensation and Perception
+          
         - title: Adjunct Lecturer
           company: University of Akureyri
           company_url: 'https://www.unak.is/english/'
