@@ -21,18 +21,19 @@ role: Cognitive Neuroscientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Akureyri
-    url: https://www.unak.is/english/
+  - name: SKERI
+    url: https://www.ski.org/directory/sofia-krasovskaya/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cognitive scientist interested in all things vision and attention.
+bio: Cognitive scientist interested in all things vision, perception and attention.
 
 # Interests to show in About widget
 interests:
   - Visual attention
   - Visual perception
-  - Deep Learning
+  - Computational modelling
   - Eyetracking
+  - Blindness
 
 # Education to show in About widget
 education:
@@ -130,6 +131,9 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=DUsN7x0AAAAJ
+  - icon: bls
+    icon_pack: 
+    link: https://bsky.app/profile/cortexophie.bsky.social
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-9120-7407 

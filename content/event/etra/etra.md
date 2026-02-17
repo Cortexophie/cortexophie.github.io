@@ -1,5 +1,5 @@
 ---
-title: Joe MacInnes will present our paper at ETRA 2024
+title: Joe MacInnes presented our paper at ETRA 2024
 event: ETRA 2024
 event_url: https://etra.acm.org/2024
 location: Glasgow, UK
@@ -22,7 +22,7 @@ publishDate: '2017-01-01T00:00:00Z'
 authors: 
   - admin
 tags: 
-  - upcoming talks
+  - past talks
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -44,8 +44,7 @@ projects: []
 ---
 
 
-My coauthor, [Joe MacInnes](https://www.swansea.ac.uk/staff/william.macinnes/), will be presenting our paper in my stead because of my inability to travel to the UK. Thank you, Joe!
-If you are at ETRA or just passing by, check out Joe's talk on June 5th at Paper Session 1: Visual Attention starting at 11 am.
+My coauthor, [Joe MacInnes](https://www.swansea.ac.uk/staff/william.macinnes/), presented our paper in my stead because of my inability to travel to the UK. Thank you, Joe!
 
 - check out the demo of the setup we used [**here**](/project/ffv/)
 
