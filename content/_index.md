@@ -197,7 +197,7 @@ sections:
           icon_pack: fab
           name: Shoot me a DM
           link: 'https://www.facebook.com/sofia.krasovskaya.1/'
-        - icon: butterfly
+        - icon: ghost
           icon_pack: fas
           name: Follow me on bsky
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
