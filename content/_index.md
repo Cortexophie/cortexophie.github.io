@@ -197,7 +197,7 @@ sections:
           icon_pack: fab
           name: Shoot me a DM
           link: 'https://www.facebook.com/sofia.krasovskaya.1/'
-        - icon: bluesky
+        - icon: bsky-test
           icon_pack: custom
           name: Follow me on bsky
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
