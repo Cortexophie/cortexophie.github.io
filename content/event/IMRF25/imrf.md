@@ -47,6 +47,8 @@ tags:
 # Is this a featured talk? (true/false)
 featured: false
 
+![IMRF poster](imrf25.png)
+
 image:
   caption: 'Poster presented at IMRF 2025'
   focal_point: Smart
@@ -61,7 +63,7 @@ url_video: ""
 slides: ""
 
 # Projects (optional).
-projects: []
+projects: [echolocation]
 ---
 
 
