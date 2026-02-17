@@ -64,5 +64,5 @@ projects: []
 ---
 
 
-- check out the demo of the setup we used [**here**](/project/ffv/)
+- check out the poster I presented [**here**](/project/IMRF_poster/)
 
