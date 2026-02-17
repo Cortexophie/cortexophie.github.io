@@ -47,7 +47,6 @@ tags:
 # Is this a featured talk? (true/false)
 featured: false
 
-![IMRF poster](imrf25.png)
 
 image:
   caption: 'Poster presented at IMRF 2025'
@@ -65,6 +64,6 @@ slides: ""
 # Projects (optional).
 projects: [echolocation]
 ---
-
+![IMRF poster](imrf25.png)
 
 
