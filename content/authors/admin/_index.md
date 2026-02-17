@@ -131,8 +131,8 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=DUsN7x0AAAAJ
-  - icon: testicon123
-    icon_pack: custom
+  - icon: butterfly
+    icon_pack: fas
     link: https://bsky.app/profile/cortexophie.bsky.social
   - icon: orcid
     icon_pack: ai
