@@ -50,7 +50,7 @@ sections:
           location: San Francisco, USA
           date_start: '2025-01-02'
           date_end: ''
-          description: Teaching Sensation and Perception
+          description: Studying perception in blindness
           
         - title: Adjunct Lecturer
           company: University of Akureyri
@@ -198,7 +198,7 @@ sections:
           name: Shoot me a DM
           link: 'https://www.facebook.com/sofia.krasovskaya.1/'
         - icon: bluesky
-          icon_pack: custom
+          icon_pack: 
           name: Follow me on bsky
           svg: media/bluesky.svg
           link: 'https://bsky.app/profile/cortexophie.bsky.social'
