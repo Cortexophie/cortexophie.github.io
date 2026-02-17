@@ -49,7 +49,7 @@ sections:
           company_logo: skeri
           location: San Francisco, USA
           date_start: '2025-01-02'
-          date_end: 'current'
+          date_end: ''
           description: Teaching Sensation and Perception
           
         - title: Adjunct Lecturer
