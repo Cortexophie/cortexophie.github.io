@@ -49,7 +49,8 @@ featured: false
 
 image:
   caption: 'Poster presented at IMRF 2025'
-  focal_point: Right
+  focal_point: Smart
+  preview_only: false
 
 url_code: ""
 url_pdf: ""
@@ -64,5 +65,4 @@ projects: []
 ---
 
 
-- check out the poster I presented [**here**](/project/IMRF_poster/)
 
