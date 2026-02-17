@@ -50,7 +50,7 @@ featured: false
 
 image:
   caption: 'Poster presented at IMRF 2025'
-  focal_point: Smart
+  focal_point: Right
   preview_only: false
 
 url_code: ""
