@@ -48,7 +48,7 @@ slides: ""
 projects: [echolocation]
 ---
 
-![Poster presented at IMRF 2025](/static/media/imrf25.jpg)
+![Poster presented at IMRF 2025](/media/imrf25.jpg)
 
 
 Human echolocation relies on the dynamic integration of auditory feedback and motor behaviour to
