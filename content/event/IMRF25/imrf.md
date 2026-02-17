@@ -47,9 +47,7 @@ slides: ""
 # Projects (optional).
 projects: [echolocation]
 ---
-
-![Poster presented at IMRF 2025](/media/imrf25.jpg)
-
+Title: **A Kalman Filter model of echo-guided head movement**
 
 Human echolocation relies on the dynamic integration of auditory feedback and motor behaviour to
 localize sound-reflecting targets. Inspired by behavioural paradigms in which blind participants use
@@ -70,3 +68,5 @@ profiles revealed reliable convergence dynamics. These findings suggest that sim
 computational approaches can reproduce key aspects of echo-guided sensorimotor learning, offering
 a computational foundation for interrogating the mechanisms of echolocation ability in humans, and a
 framework for developing more complex biologically grounded models.
+
+![Poster presented at IMRF 2025](/media/imrf25.jpg)
