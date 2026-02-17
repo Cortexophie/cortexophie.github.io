@@ -49,6 +49,7 @@ featured: false
 
 
 image:
+  filename: featured.jpg
   caption: 'Poster presented at IMRF 2025'
   focal_point: Right
   preview_only: false
