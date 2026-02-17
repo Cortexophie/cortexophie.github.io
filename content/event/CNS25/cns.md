@@ -51,4 +51,4 @@ projects: [echolocation]
 Title: **Modeling target search in blind echolocators using a Kalman Filter with realistic exploratory behavior simulation**
 
 
-![Poster presented at CNS 2025](/media/cns25.pdf)
+![Poster presented at CNS 2025](/media/cns25.png)
