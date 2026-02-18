@@ -1,7 +1,7 @@
 ---
 title: Poster at the 44th annual European Conference on Visual Perception (ECVP)
 event: ECVP 2022
-event_url: https://imrf2025.sciencesconf.org
+event_url: https://2022.ecvp.eu/
 location: Nijmegen, the Netherlands
 
 draft: false
