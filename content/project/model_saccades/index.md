@@ -1,10 +1,12 @@
 ---
 title: Computational modelling of human saccadic generation
-summary: Trying to create a computational model of saccadic generation based on Itti & Koch (2001) to understand human visual attention and perception
+
+summary: Trying to create a computational model of saccadic generation/visual salience based on the model of saliency by Itti and Koch (2000) to understand human visual attention and perception
 
 tags:
   - visual attention
   - visual perception
+  - visual salience
   - saccadic generation
   - computational modelling
 
