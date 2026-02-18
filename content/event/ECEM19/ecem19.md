@@ -51,4 +51,9 @@ Title: **Microsaccade suppression during antisaccade generation in the Posner cu
 
 The functional purpose of microsaccades is still debated. Spatial cueing paradigms (Posner, 1980) typically require fixational control, but this does not eliminate all oculomotor activity associated with the preparation of saccades in the cued direction (Engbert & Kliegl, 2003). During the antisaccade task (Halett, 1978) observers have to make saccades in the opposite direction to the onset of a cue. Planning and execution are therefore separate processes. We thus hypothesise that microsaccades will be reduced during the execution of antisaccade as compared to prosaccade trials. Twenty-two participants performed saccades or antisaccades in blocked or mixed trials. They participated in three blocks: a fixed saccade block, a fixed antisaccade block, and a mixed saccade - antisaccade block. In the saccade trials, a green fixation cross was displayed at screen centre, whereas during antisaccade trials the fixation cross was red, allowing participants to prepare the appropriate response (but not direction) prior to the target. The results of the study show a large latency cost for antisaccades compared to prosaccades and an additional cost of mixed blocks. In the blocked antisaccade trials the observers made fewer microsaccades. We believe this may be due to participants having enough time to prepare the top-down control of the oculomotor system, which leads to a predictable pattern for each participant. We also predict that in the mixed block participants have less time to prepare the top-down microsaccade suppression and test this by comparing data between the saccade, the antisaccade and mixed blocks.
 
-![Poster presented at ECEM 2019](/media/ecem19.tif)
+
+<video width="100%" controls>
+  <source src="/media/psycho20.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+#![Poster presented at ECEM 2019](/media/ecem19.tif)
