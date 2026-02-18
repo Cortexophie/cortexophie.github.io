@@ -1,7 +1,7 @@
 ---
 title: Computational modelling of human saccadic generation
 
-summary: Trying to create a computational model of saccadic generation/visual salience based on the model of saliency by Itti and Koch (2000) to understand human visual attention and perception
+summary: A computational model of saccadic generation/visual salience based on the model of saliency by Itti and Koch (2000) to understand human visual attention and perception
 
 tags:
   - visual attention
@@ -20,7 +20,7 @@ date: "2016-09-01T12:00:00Z"
 #   focal_point: Smart
 ---
 
-This was where my interest in computational modelling began, and what started out as a Boltzmann Machine, brought me for a toe soak into Deep Learning, and pushed me forward into other computational modelling projects.
+This was where my interest in computational modelling began, and what started out as a Boltzmann Machine, introduced me to Deep Learning, and pushed me towards other computational modelling projects.
 
 #<video width="640" height="360" controls>
 #  <source src="/media/antidemo-adjusted.mp4" type="video/mp4">
