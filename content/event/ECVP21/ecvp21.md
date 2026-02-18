@@ -45,7 +45,7 @@ url_video: ""
 slides: ""
 
 # Projects (optional).
-projects: [echolocation]
+projects: [FFV]
 ---
 Title: **The Effect of Task Difficulty on the Dynamics of Functional Field of View Adaptability**
 
