@@ -21,11 +21,3 @@ date: "2016-09-01T12:00:00Z"
 ---
 
 This was where my interest in computational modelling began, and what started out as a Boltzmann Machine, introduced me to Deep Learning, and pushed me towards other computational modelling projects.
-
-#<video width="640" height="360" controls>
-#  <source src="/media/antidemo-adjusted.mp4" type="video/mp4">
-#  Your browser does not support the video tag.
-#</video>
-
-
-#For more details check out the original publication [here](https://link.springer.com/article/10.3758/s13414-023-02731-3)
