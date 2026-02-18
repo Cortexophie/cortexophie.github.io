@@ -51,4 +51,8 @@ Title: **Microsaccade Suppression as a Measure of Oculomotor Inhibition in the A
 
 Microsaccades belong to the category of fixational micromovements, but their functional purpose is still debated. Eye-movement paradigms typically require fixational control, but this does not eliminate all oculomotor activity associated with the preparation of saccades. During the so-called antisaccade task, planning and execution are separate processes. We thus hypothesise that microsaccade rates may be reduced prior to the execution of antisaccades as compared to regular saccades. Our study involves a two-step eye-tracking experiment with 40 participants asked to perform saccades or antisaccades in blocks where saccade type was fixed or mixed within blocks. Each participant contributed to three main blocks: a fixed saccade block, a fixed antisaccade block, and a mixed saccade/antisaccade block. Lower microsaccade rates were found in fixed as opposed to mixed blocks and antisaccade as opposed to saccade blocks. We propose that this could be explained by the top-down control required by the oculomotor system. We additionally compare temporal rates between the different blocks and assess differences between monocular and binocular recordings to determine the reliability of microsaccade detection with monocular tracking.
 
-![Talk presented at Psychonomics 2020](/media/psycho20.mp4)
+
+<video width="100%" controls>
+  <source src="/media/psycho20.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
