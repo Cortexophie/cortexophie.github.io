@@ -46,7 +46,7 @@ url_video: ""
 slides: ""
 
 # Projects (optional).
-projects: [echolocation]
+projects: [echo]
 ---
 Title: **Modeling target search in blind echolocators using a Kalman Filter with realistic exploratory behavior simulation**
 

@@ -45,7 +45,7 @@ url_video: ""
 slides: ""
 
 # Projects (optional).
-projects: [echolocation]
+projects: [echo]
 ---
 Title: **A Kalman Filter model of echo-guided head movement**
 

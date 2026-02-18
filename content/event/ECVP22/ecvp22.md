@@ -45,7 +45,7 @@ url_video: ""
 slides: ""
 
 # Projects (optional).
-projects: [echolocation]
+projects: [FFV]
 ---
 Title: **The adaptability of the Functional Field of View to task difficulty in a gaze-contingent
 search paradigm: a registered abstract**
