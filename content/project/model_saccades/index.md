@@ -1,0 +1,29 @@
+---
+title: Computational modelling of human saccadic generation
+summary: Trying to create a computational model of saccadic generation based on Itti & Koch (2001) to understand human visual attention and perception
+
+tags:
+  - visual attention
+  - visual perception
+  - saccadic generation
+  - computational modelling
+
+date: "2016-09-01T12:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+# external_link: https://example.org
+
+# image:
+#   caption: Photo by Toa Heftiba on Unsplash
+#   focal_point: Smart
+---
+
+This was where my interest in computational modelling began, and what started out as a Boltzmann Machine, brought me for a toe soak into Deep Learning, and pushed me forward into other computational modelling projects.
+
+#<video width="640" height="360" controls>
+#  <source src="/media/antidemo-adjusted.mp4" type="video/mp4">
+#  Your browser does not support the video tag.
+#</video>
+
+
+#For more details check out the original publication [here](https://link.springer.com/article/10.3758/s13414-023-02731-3)
