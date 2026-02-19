@@ -46,7 +46,7 @@ education:
       year: 2018
     - course: BA in Linguistics
       institution: Moscow State Linguistic University
-      year: 2008
+      year: 2013
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
